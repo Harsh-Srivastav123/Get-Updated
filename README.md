@@ -68,8 +68,3 @@ http://quizapp-springboot-env.eba-jbkqpxmq.eu-north-1.elasticbeanstalk.com/swagg
 
  ```shell
    http://localhost:8080/swagger-ui.html
-
-
-
-
-

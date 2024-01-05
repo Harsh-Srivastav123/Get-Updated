@@ -58,10 +58,18 @@ The Get Updated App is a Spring Boot project, implemented in Java, that serves a
 
 4. **Access the Application**: Once the application is running, access it through [http://localhost:8080](http://localhost:8080) in your web browser.
 
-## Contributing
+### Configuration
+Explain how to configure your application, including setting up the database and Cloudinary credentials.
 
-Contributions are welcome! If you would like to contribute to the project, please follow the standard GitHub fork and pull request workflow.
+### Swagger API Documentation
+QuizApp provides Swagger for easy API documentation and testing. You can access the Swagger UI to interact with the APIs as follows:
 
-## License
+http://quizapp-springboot-env.eba-jbkqpxmq.eu-north-1.elasticbeanstalk.com/swagger-ui/index.html
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
+ ```shell
+   http://localhost:8080/swagger-ui.html
+
+
+
+
+
